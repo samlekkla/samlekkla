@@ -18,7 +18,7 @@ I'm a passionate full-stack developer currently focusing on .NET and Azure cloud
 
 Here are some of the things I’ve worked on recently:
 
-- **[Tomasos Pizzeria Web API](https://github.com/YOUR_USERNAME/tomasos-pizzeria-api)**  
+- **[Tomasos Pizzeria Web API](https://github.com/samlekkla/PizzeriaWebApi_EF)**  
   ASP.NET Core Web API deployed to Azure, with authentication, order system, role management, and EF Core.
 
 - **Other projects on my profile**
