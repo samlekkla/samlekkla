@@ -1,71 +1,43 @@
-# 👋 Hi there, I'm Sam!
+# 👋 Hi, I'm Sam!
 
-I'm a passionate full-stack developer currently focusing on .NET and Azure cloud technologies. I'm studying to become a professional developer, building modern APIs and cloud-connected applications.
+Full-stack developer in training, focused on .NET, C#, and Azure. Passionate about building secure APIs and scalable cloud-connected apps.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Currently working on: **Tomasos Pizzeria API**
-- ☁️ Learning more about: **Azure, Entity Framework, Key Vault, and security**
-- 📚 Studying full-stack development with C#, .NET, and React
+- 💻 Current project: **Tomasos Pizzeria API**
+- ☁️ Learning: **Azure, EF Core, Key Vault, security**
+- 📚 Studying full-stack development (.NET, React)
 - 🌍 Based in **Sweden**
-- 🎯 Goal: Become a skilled backend developer and work with scalable, secure systems
+- 🎯 Goal: Become a backend developer working with secure, scalable systems
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the things I’ve worked on recently:
-
 - **[Tomasos Pizzeria Web API](https://github.com/samlekkla/PizzeriaWebApi_EF)**  
-  ASP.NET Core Web API deployed to Azure, with authentication, order system, role management, and EF Core.
+  ASP.NET Core Web API with auth, order system, roles – deployed to Azure
 
-- **Other projects on my profile**
+- **More projects on my [GitHub](https://github.com/samlekkla)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Primary Languages
-- C# / .NET
-- JavaScript
-
-### 🎨 Frontend
-- HTML, CSS
-- React
-- Angular
-- Vue
-
-### 🗄️ Backend
-- REST APIs
-- SQL / NoSQL (Cosmos DB, MongoDB)
-- Node.js
-- Entity Framework
-
-### ☁️ Tools & Cloud
-- Git & GitHub
-- VS Code / Visual Studio
-- GitHub Actions
-- Azure & DevOps
-
-### 🔧 Other Skills
-- CI/CD Pipelines
-- Agile Methodologies
-- Cloud Services & Cloud Databases
-- Self-leadership
-- Unit Testing
+- **Languages:** C#, JavaScript  
+- **Frontend:** React, Angular, Vue  
+- **Backend:** .NET, Node.js, EF Core, REST APIs  
+- **Databases:** SQL, Cosmos DB, MongoDB  
+- **Cloud/Tools:** Azure, GitHub, DevOps, CI/CD, VS Code
 
 ---
 
 ## 📫 Contact
 
-Feel free to connect or reach out:
-
-- Email: sam.lekkla@gmail.com
+- Email: sam.lekkla@gmail.com  
 - GitHub: [@samlekkla](https://github.com/samlekkla)
-
 
 ---
 
-_Thanks for visiting my profile!_
+_Let’s build something great together!_
